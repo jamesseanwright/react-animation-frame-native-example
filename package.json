@@ -1,5 +1,5 @@
 {
-  "name": "hello-react-native",
+  "name": "react-animation-frame-native-example",
   "version": "0.0.1",
   "description": "A basic React Native application for Android to resolve issue 3 with react-animation-frame",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "16.0.0-alpha.12",
-    "react-animation-frame": "0.3.4",
+    "react-animation-frame": "0.3.5",
     "react-native": "0.48.4"
   }
 }

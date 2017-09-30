@@ -1,4 +1,4 @@
-package uk.co.jamesswright.helloreactnative;
+package uk.co.jamesswright.reactanimationframenativeexample;
 
 import android.app.Activity;
 import android.content.Intent;
